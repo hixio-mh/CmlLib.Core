@@ -21,7 +21,7 @@ see github to learn how to use</Description>
   <ItemGroup>
     <PackageReference Include="LZMA-SDK" Version="19.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
-    <PackageReference Include="SharpZipLib" Version="1.2.0" />
+    <PackageReference Include="SharpZipLib" Version="1.3.3" />
   </ItemGroup>
 
 </Project>
